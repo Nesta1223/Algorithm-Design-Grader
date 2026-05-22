@@ -1,0 +1,1 @@
+{"name":"Local: columbia","url":"d:\\Y2S2\\Algo\\Q3\\columbia.cpp","tests":[{"id":1774237863165,"input":"4 4\n1 1 1 1\n9 8 7 1\n1 1 1 1\n1 2 4 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Y2S2\\Algo\\Q3\\columbia.cpp","group":"local","local":true}

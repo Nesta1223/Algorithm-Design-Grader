@@ -1,0 +1,1 @@
+{"name":"Local: lcsBottomUp","url":"d:\\Y2S2\\Algo\\Q2\\lcsBottomUp.cpp","tests":[{"id":1771925322486,"input":"acbdegcedbg\nbegcfeubk\n","output":""},{"id":1771925324344,"input":"aaa\nbbbbbbbbb","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Y2S2\\Algo\\Q2\\lcsBottomUp.cpp","group":"local","local":true}

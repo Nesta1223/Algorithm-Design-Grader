@@ -1,0 +1,1 @@
+{"name":"Local: taskplanning","url":"d:\\Y2S2\\Algo\\Q3\\taskplanning.cpp","tests":[{"id":1773630382825,"input":"4\n1 1\n2 3 2\n0\n0","output":""},{"id":1773630558462,"input":"4\n0\n0\n0\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Y2S2\\Algo\\Q3\\taskplanning.cpp","group":"local","local":true}

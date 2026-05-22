@@ -1,0 +1,1 @@
+{"name":"Local: avldistance","url":"d:\\Y2S2\\Algo\\Q3\\avldistance.cpp","tests":[{"id":1774409866399,"input":"6 4\n1 2\n1 5\n5 6\n2 4\n2 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Y2S2\\Algo\\Q3\\avldistance.cpp","group":"local","local":true}

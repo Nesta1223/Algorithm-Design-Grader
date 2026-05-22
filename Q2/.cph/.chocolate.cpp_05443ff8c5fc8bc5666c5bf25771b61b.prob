@@ -1,0 +1,1 @@
+{"name":"Local: chocolate","url":"d:\\Y2S2\\Algo\\Q2\\chocolate.cpp","tests":[{"id":1772116615584,"input":"4 2\n1 3\n","output":""},{"id":1772117158695,"input":"10 5\n1 2 4 6 8","output":""},{"id":1772117218408,"input":"10 2\n1 2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Y2S2\\Algo\\Q2\\chocolate.cpp","group":"local","local":true}

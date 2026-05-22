@@ -1,0 +1,1 @@
+{"name":"Local: 15puzzle","url":"d:\\Y2S2\\Algo\\Q4\\15puzzle.cpp","tests":[{"id":1776162439698,"input":"1 2 3 4\n5 6 7 8\n9 10 11 0\n13 14 15 12\n","output":""},{"id":1776165032386,"input":"1 2 7 3\n5 6 9 4\n15 14 0 8\n12 11 13 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Y2S2\\Algo\\Q4\\15puzzle.cpp","group":"local","local":true}

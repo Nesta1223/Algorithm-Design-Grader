@@ -1,0 +1,1 @@
+{"name":"Local: mcm","url":"d:\\Y2S2\\Algo\\Q2\\mcm.cpp","tests":[{"id":1771147938692,"input":"3\n10 10 10 1\n","output":""},{"id":1771147942587,"input":"7\n92 32 7 3 29 74 57 93\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Y2S2\\Algo\\Q2\\mcm.cpp","group":"local","local":true}

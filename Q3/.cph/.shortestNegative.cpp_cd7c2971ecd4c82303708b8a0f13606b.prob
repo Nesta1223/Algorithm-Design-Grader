@@ -1,0 +1,1 @@
+{"name":"Local: shortestNegative","url":"d:\\Y2S2\\Algo\\Q3\\shortestNegative.cpp","tests":[{"id":1774236258719,"input":"4 3 0\n0 1 -1\n1 2 1\n2 3 4\n","output":""},{"id":1774236296834,"input":"4 3 0\n1 2 -1\n2 3 -1\n3 1 -1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Y2S2\\Algo\\Q3\\shortestNegative.cpp","group":"local","local":true}

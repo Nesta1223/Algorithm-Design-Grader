@@ -1,0 +1,1 @@
+{"name":"Local: expressway","url":"d:\\Y2S2\\Algo\\Q3\\expressway.cpp","tests":[{"id":1774358208867,"input":"5 10\n2 1 6 2 7\n3 1 1 3 1 2 9\n2 1 2 2 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Y2S2\\Algo\\Q3\\expressway.cpp","group":"local","local":true}

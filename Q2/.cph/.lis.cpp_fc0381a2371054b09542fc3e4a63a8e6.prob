@@ -1,0 +1,1 @@
+{"name":"Local: lis","url":"d:\\Y2S2\\Algo\\Q2\\lis.cpp","tests":[{"id":1772516143872,"input":"5\n3 1 4 5 2\n","output":""},{"id":1772516144618,"input":"13\n7 0 10 21 1 6 22 4 3 5 9 8 71\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Y2S2\\Algo\\Q2\\lis.cpp","group":"local","local":true}
